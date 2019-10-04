@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mcid:item/swords/asmallgreendot/0"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "damage": 0.1434058898847631
+      },
+      "model": "mcid:item/swords/asmallgreendot/damage/1"
+    },
+    {
+      "predicate": {
+        "damage": 0.2861715749039693
+      },
+      "model": "mcid:item/swords/asmallgreendot/damage/2"
+    },
+    {
+      "predicate": {
+        "damage": 0.4289372599231754
+      },
+      "model": "mcid:item/swords/asmallgreendot/damage/3"
+    },
+    {
+      "predicate": {
+        "damage": 0.5717029449423815
+      },
+      "model": "mcid:item/swords/asmallgreendot/damage/4"
+    },
+    {
+      "predicate": {
+        "damage": 0.7144686299615877
+      },
+      "model": "mcid:item/swords/asmallgreendot/damage/5"
+    },
+    {
+      "predicate": {
+        "damage": 0.8572343149807938
+      },
+      "model": "mcid:item/swords/asmallgreendot/damage/6"
+    }
+  ]
+}

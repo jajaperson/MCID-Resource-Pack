@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+zip -r "Minecraft Isn't Dead Resource Pack" ./pack.png ./pack.mcmeta ./assets -x *.DS_Store

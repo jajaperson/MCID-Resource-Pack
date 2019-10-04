@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": [
+      "",
+      {
+        "text": "Pack for "
+      },
+      {
+        "text": "mcisntdead.mcs.lol",
+        "bold": true,
+        "underlined": true,
+        "color": "yellow"
+      },
+      {
+        "text": "\n"
+      },
+      {
+        "text": "Authors: ",
+        "bold": true,
+        "color": "red"
+      },
+      {
+        "text": "jajaperson"
+      }
+    ]
+  }
+}
