@@ -5,7 +5,7 @@ script: ./package
 deploy:
   - provider: releases
     api_key: $GITHUB_TOKEN
-    file: Minecraft Isn't Dead Resource Pack.zip
+    file: MinecraftIsn'tDead.zip
     skip_cleanup: true
     on:
       tags: true
