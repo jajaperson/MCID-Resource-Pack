@@ -16,7 +16,7 @@ Simply place the `.zip` in your `$MINECRAFT/resourcepacks` folder.
 ### Local Installation
 
 To install the resource pack straight from the downloaded repository, simply
-make sure you have `$MINECRAFT` set to your `.minecraft` directory and run the
+make sure you have `$MINECRAFT` set to your `.minecraft` folder and run the
 following from inside this directory:
 
 ```sh
@@ -34,4 +34,4 @@ this directory.
 $ ./package
 ```
 
-The output should appear under `/Minecraft Isn't Dead Resource Pack.zip`.
+The output should appear under `/MCID.zip`.

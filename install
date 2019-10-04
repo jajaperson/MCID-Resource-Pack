@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-zip -r "$MINECRAFT/resourcepacks/MinecraftIsn'tDead.zip" ./pack.png ./pack.mcmeta ./assets -x *.DS_Store
+zip -r "$MINECRAFT/resourcepacks/MCID.zip" ./pack.png ./pack.mcmeta ./assets -x *.DS_Store
