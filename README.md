@@ -35,3 +35,7 @@ $ ./package
 ```
 
 The output should appear under `/MCID.zip`.
+
+## Docs
+
+- **[Using Icons](usingicons.md)**
