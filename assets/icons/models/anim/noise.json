@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "icons:item/anim/noise"
+    "layer0": "icons:icon/anim/noise"
   }
 }

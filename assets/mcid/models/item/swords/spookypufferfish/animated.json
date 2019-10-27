@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mcid:item/swords/spookypufferfish/animated"
+  }
+}

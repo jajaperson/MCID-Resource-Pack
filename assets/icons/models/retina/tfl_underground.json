@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "icons:item/retina/tfl_underground"
+    "layer0": "icons:icon/retina/tfl_underground"
   }
 }

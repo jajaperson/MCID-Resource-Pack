@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "icons:item/32x32/tfl"
+    "layer0": "icons:icon/32x32/tfl"
   }
 }
