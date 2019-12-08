@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "mcid:item/swords/xXPerozaGamingXx/animated"
+    "layer0": "mcid:item/swords/xxperozagamingxx/animated"
   }
 }
