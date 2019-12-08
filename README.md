@@ -2,7 +2,7 @@
 
 **[Download Resource Pack](https://github.com/jajaperson/MCID-Resource-Pack/releases)**
 
-The official resource pack for [mcisntdead.mcs.lol](https://mcisntdead.mcs.lol).
+The official resource pack for [mcisntdead.ggs.onl](https://mcisntdead.ggs.onl).
 
 This pack doesn't change anythiing in vanilla minecraft, so don't worry about
 leaving it always on.
