@@ -1,4 +1,4 @@
-# Minecraft Isn't Dead Resource Pack [![Build Status](https://travis-ci.com/jajaperson/MCID-Resource-Pack.svg?token=wgVJTQgX4rqyAqtmCUV9&branch=master)](https://travis-ci.com/jajaperson/MCID-Resource-Pack) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/jajaperson/MCID-Resource-Pack)](https://github.com/jajaperson/MCID-Resource-Pack/releases)
+# Minecraft Isn't Dead Resource Pack [![Build Status](https://travis-ci.com/jajaperson/MCID-Resource-Pack.svg?token=wgVJTQgX4rqyAqtmCUV9&branch=master)](https://travis-ci.com/jajaperson/MCID-Resource-Pack) [![GitHub release (latest by date)](https://img.shields.io/github/v/release/jajaperson/MCID-Resource-Pack)](https://github.com/jajaperson/MCID-Resource-Pack/releases) [![pack format](https://img.shields.io/badge/pack_format-4-blue)](https://minecraft.gamepedia.com/Resource_pack#Contents)
 
 **[Download Resource Pack](https://github.com/jajaperson/MCID-Resource-Pack/releases)**
 
